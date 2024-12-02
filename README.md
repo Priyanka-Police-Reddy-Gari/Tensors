@@ -1,2 +1,2 @@
-# Tensors
-The code explains my learnings of the tensors.
+# Tensor Operations and Optimization with PyTorch
+This project demonstrates the use of advanced tensor operations, optimization techniques, and GPU acceleration using PyTorch for efficient machine learning tasks. It covers a wide range of operations like tensor creation, reshaping, slicing, broadcasting, linear algebra, and in-place vs. out-of-place operations. Additionally, the project explores performance optimization techniques using GPU in Google Colab.
